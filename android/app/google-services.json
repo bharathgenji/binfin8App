@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860492066440",
+    "project_id": "assetapp-4a2b7",
+    "storage_bucket": "assetapp-4a2b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860492066440:android:92b4efe6b86e34bcdd393d",
+        "android_client_info": {
+          "package_name": "com.example.asset_token_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALcPwCdzBzmp-fP1bMnTlhE0xF278CRw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
